@@ -1,0 +1,30 @@
+div.header {
+  /* Positioning */
+  /* Box-model */
+  /* Typography */
+  text-align: center;
+  /* Visual */
+  /* Misc */
+}
+
+div.header h1 {
+  /* Positioning */
+  /* Box-model */
+  /* Typography */
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  /* Visual */
+  /* Misc */
+}
+
+
+.img-responsive {
+  /* Positioning */
+  display: block;
+  /* Box-model */
+  max-width: 100%;
+  height: auto;
+  /* Typography */
+  /* Visual */
+  /* Misc */
+}
