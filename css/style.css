@@ -10,7 +10,6 @@ body {
 div.header {
   /* Positioning */
   /* Box-model */
-  padding-top: 4px;
   /* Typography */
   text-align: center;
   /* Visual */
@@ -21,6 +20,7 @@ div.header {
 div.header i {
   /* Positioning */
   /* Box-model */
+  line-height: 1;
   /* Typography */
   font-size: 100px;
   /* Visual */
